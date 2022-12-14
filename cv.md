@@ -4,9 +4,8 @@ Discord: Vadim V (va7v)#1510
 ## About me
 My goal is to get more skills
 ## Skills
-* Languages 1
-    + Java 1
-    + Kotlin 2
+1. Java 1
+2. Kotlin 2
 ## Code example
 ```
 function sum(x, y) {
