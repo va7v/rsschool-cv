@@ -1,10 +1,9 @@
 # Vadim Valeev
+----
 ## Contacts
 Discord: Vadim V (va7v)#1510
-----
 ## About me
 My goal is to get more skills
-====
 ## Skills
 * Languages 1
     + Java 1
