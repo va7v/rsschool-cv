@@ -1,7 +1,8 @@
 # Vadim Valeev
-----
 ## Contacts
 Discord: Vadim V (va7v)#1510
+[Project][https://github.com/va7v/JBA-Kotlin-CinemaRoom]
+----
 ## About me
 My goal is to get more skills
 ## Skills
@@ -18,7 +19,6 @@ function sum(x, y) {
   return x + y
 }
 ```
-[Project][https://github.com/va7v/JBA-Kotlin-CinemaRoom]
 ## Work experience
 Last year I have worked as a mobile developer
 ## Education
