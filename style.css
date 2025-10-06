@@ -1,6 +1,6 @@
 * {
     box-sizing: border-box;
-  }  
+  }
   body {
     min-height: 100vh;
     margin: 0; padding: 0;
@@ -34,7 +34,7 @@
     justify-content: flex-end;
     align-items: center;
     list-style: none;
-  }  
+  }
   .nav-link {
     padding: 0 20px;
     line-height: 50px;
@@ -45,7 +45,7 @@
   }
   .section-item a {
     color: #829985;
-    text-decoration: none;  
+    text-decoration: none;
     transition: color 0.5s;
   }
   .section-item a:hover {
