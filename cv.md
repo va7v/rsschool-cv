@@ -1,4 +1,4 @@
-# Vadim Valeev
+# Vadim Vadim
 ## Contacts
 Discord: Vadim V (va7v)#1510
 ## About me

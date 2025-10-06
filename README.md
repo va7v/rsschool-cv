@@ -1,1 +1,2 @@
-https://va7v.github.io/rsschool-cv-html/index.html
+https://va7v.github.io/rsschool-cv/cv
+https://va7v.github.io/rsschool-cv/
